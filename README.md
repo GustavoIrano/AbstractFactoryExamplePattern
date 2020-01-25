@@ -6,4 +6,4 @@ Creational Pattern
 
 Abstract Factory</b>
 
-Esta aplicação representa o uso do padrão de design abstract factory
+This application represents the use of the abstract factory design pattern
